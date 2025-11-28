@@ -1,0 +1,43 @@
+# core
+python-dateutil
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyterlab
+notebook
+
+# ML & boosting
+xgboost
+lightgbm
+scipy
+imblearn
+
+# Deep learning
+torch
+tensorflow
+
+# NLP
+transformers
+datasets
+tokenizers
+sentencepiece
+accelerate
+huggingface-hub
+evaluate
+
+# optimisation
+scikit-optimize
+
+# explainability
+lime
+shap
+
+# utils
+tqdm
+joblib
+
+#optional
+ipywidgets
+scikit-plot
