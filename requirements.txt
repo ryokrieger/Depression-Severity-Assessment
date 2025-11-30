@@ -32,7 +32,6 @@ scikit-optimize
 
 # explainability
 lime
-shap
 
 # utils
 tqdm
