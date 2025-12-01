@@ -36,6 +36,7 @@ lime
 # utils
 tqdm
 joblib
+streamlit
 
 #optional
 ipywidgets
