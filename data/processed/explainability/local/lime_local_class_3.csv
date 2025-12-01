@@ -1,0 +1,11 @@
+class,class_name,feature_raw,feature_base,feature_desc,weight
+3,Moderately Severe,0.67 < PHQ7 <= 1.00,PHQ7,Difficulty Concentrating,-0.14350645023744676
+3,Moderately Severe,PHQ2 <= 0.33,PHQ2,Low Mood or Hopelessness,0.14280765982258178
+3,Moderately Severe,0.67 < PHQ6 <= 1.00,PHQ6,Feelings of Worthlessness,-0.10919038803289122
+3,Moderately Severe,0.33 < PHQ5 <= 0.67,PHQ5,Appetite or Weight Changes,-0.051726214894024326
+3,Moderately Severe,0.33 < PHQ4 <= 0.67,PHQ4,Fatigue or Low Energy,-0.0403770085061485
+3,Moderately Severe,PSS2 <= 0.50,PSS2,Sense of Control Over Academics,0.023198170678223964
+3,Moderately Severe,PSS4 <= 0.50,PSS4,Confidence in Coping Abilities,0.016041246278538892
+3,Moderately Severe,PSS1 <= 0.50,PSS1,Emotional Response to Setbacks,-0.012928134923844986
+3,Moderately Severe,PSS10 <= 0.50,PSS10,Sense of Academic Helplessness,-0.010452363724519645
+3,Moderately Severe,PSS3 <= 0.50,PSS3,Overall Academic Stress Level,-0.009807544518476582

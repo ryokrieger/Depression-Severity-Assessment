@@ -1,0 +1,51 @@
+class,class_name,feature_raw,feature_base,feature_desc,weight
+0,Minimal,PHQ7 <= 0.33,PHQ7,Difficulty Concentrating,0.18097271263123293
+0,Minimal,PHQ4 <= 0.33,PHQ4,Fatigue or Low Energy,0.16951901121452131
+0,Minimal,PHQ2 <= 0.33,PHQ2,Low Mood or Hopelessness,0.15275473628010114
+0,Minimal,PHQ6 <= 0.33,PHQ6,Feelings of Worthlessness,0.13603840458808233
+0,Minimal,PHQ9 <= 0.00,PHQ9,Suicidal Thoughts,0.11815946828325959
+0,Minimal,PHQ5 <= 0.33,PHQ5,Appetite or Weight Changes,0.11737012123171565
+0,Minimal,0.50 < PSS2 <= 0.75,PSS2,Sense of Control Over Academics,-0.021911635643776173
+0,Minimal,PSS1 <= 0.50,PSS1,Emotional Response to Setbacks,-0.0210532802883077
+0,Minimal,0.50 < PSS4 <= 0.75,PSS4,Confidence in Coping Abilities,-0.00583897843649803
+0,Minimal,PSS10 > 0.75,PSS10,Sense of Academic Helplessness,0.005096196660507867
+1,Mild,PHQ4 <= 0.33,PHQ4,Fatigue or Low Energy,0.18178670781922496
+1,Mild,PHQ7 <= 0.33,PHQ7,Difficulty Concentrating,0.17415025772407833
+1,Mild,PHQ6 <= 0.33,PHQ6,Feelings of Worthlessness,0.14346406028312175
+1,Mild,PHQ9 <= 0.00,PHQ9,Suicidal Thoughts,0.13138229016386307
+1,Mild,PHQ5 <= 0.33,PHQ5,Appetite or Weight Changes,0.12122451388134484
+1,Mild,0.33 < PHQ2 <= 0.67,PHQ2,Low Mood or Hopelessness,-0.04787326148563468
+1,Mild,PSS1 <= 0.50,PSS1,Emotional Response to Setbacks,-0.023284917022122043
+1,Mild,PSS2 <= 0.50,PSS2,Sense of Control Over Academics,0.021441405556871473
+1,Mild,PSS4 > 0.75,PSS4,Confidence in Coping Abilities,-0.021392062877266072
+1,Mild,PSS9 <= 0.50,PSS9,Frustration With Academic Results,0.010492514192532706
+2,Moderate,PHQ4 <= 0.33,PHQ4,Fatigue or Low Energy,0.18509312272234188
+2,Moderate,PHQ7 <= 0.33,PHQ7,Difficulty Concentrating,0.16523442888982956
+2,Moderate,PHQ6 <= 0.33,PHQ6,Feelings of Worthlessness,0.14281963847326448
+2,Moderate,0.33 < PHQ9 <= 0.67,PHQ9,Suicidal Thoughts,-0.06938288296258978
+2,Moderate,0.33 < PHQ5 <= 0.67,PHQ5,Appetite or Weight Changes,-0.047900869034087995
+2,Moderate,0.33 < PHQ2 <= 0.67,PHQ2,Low Mood or Hopelessness,-0.03926065824893266
+2,Moderate,0.50 < PSS5 <= 0.75,PSS5,Problem-Solving Self-Efficacy,-0.016030422100433397
+2,Moderate,PSS1 <= 0.50,PSS1,Emotional Response to Setbacks,-0.015497395914651426
+2,Moderate,PSS10 <= 0.50,PSS10,Sense of Academic Helplessness,-0.011351866198541649
+2,Moderate,0.50 < PSS4 <= 0.75,PSS4,Confidence in Coping Abilities,-0.007260833442362622
+3,Moderately Severe,0.67 < PHQ7 <= 1.00,PHQ7,Difficulty Concentrating,-0.14350645023744676
+3,Moderately Severe,PHQ2 <= 0.33,PHQ2,Low Mood or Hopelessness,0.14280765982258178
+3,Moderately Severe,0.67 < PHQ6 <= 1.00,PHQ6,Feelings of Worthlessness,-0.10919038803289122
+3,Moderately Severe,0.33 < PHQ5 <= 0.67,PHQ5,Appetite or Weight Changes,-0.051726214894024326
+3,Moderately Severe,0.33 < PHQ4 <= 0.67,PHQ4,Fatigue or Low Energy,-0.0403770085061485
+3,Moderately Severe,PSS2 <= 0.50,PSS2,Sense of Control Over Academics,0.023198170678223964
+3,Moderately Severe,PSS4 <= 0.50,PSS4,Confidence in Coping Abilities,0.016041246278538892
+3,Moderately Severe,PSS1 <= 0.50,PSS1,Emotional Response to Setbacks,-0.012928134923844986
+3,Moderately Severe,PSS10 <= 0.50,PSS10,Sense of Academic Helplessness,-0.010452363724519645
+3,Moderately Severe,PSS3 <= 0.50,PSS3,Overall Academic Stress Level,-0.009807544518476582
+4,Severe,0.67 < PHQ7 <= 1.00,PHQ7,Difficulty Concentrating,-0.13977332297988088
+4,Severe,0.67 < PHQ4 <= 1.00,PHQ4,Fatigue or Low Energy,-0.1328223438429449
+4,Severe,0.67 < PHQ2 <= 1.00,PHQ2,Low Mood or Hopelessness,-0.12522868094426362
+4,Severe,PHQ9 > 0.67,PHQ9,Suicidal Thoughts,-0.11607261363721198
+4,Severe,0.67 < PHQ6 <= 1.00,PHQ6,Feelings of Worthlessness,-0.10868665190443258
+4,Severe,PHQ5 > 0.67,PHQ5,Appetite or Weight Changes,-0.10616963822897461
+4,Severe,PSS2 <= 0.50,PSS2,Sense of Control Over Academics,0.02114754242667485
+4,Severe,PSS1 > 0.75,PSS1,Emotional Response to Setbacks,0.01288999863559775
+4,Severe,PSS4 > 0.75,PSS4,Confidence in Coping Abilities,-0.012873173245548297
+4,Severe,0.75 < PSS3 <= 1.00,PSS3,Overall Academic Stress Level,0.0059673043956068724
