@@ -48,6 +48,7 @@ PSS9 = st.slider("In a semester, how often have you got angered due to bad perfo
 PSS10 = st.slider("In a semester, how often have you felt as if academic difficulties were piling up so high that you could not overcome them?", 0, 4, 0)
 
 st.header("🧠 Depression (PHQ) Questionnaire")
+st.markdown("Scale: 0 - Never, 1 - Almost Never, 2 - Sometimes, 3 - Fairly Often, 4 - Very Often")
 
 PHQ2 = st.slider("In a semester, how often have you been feeling down, depressed or hopeless?", 0, 4, 0)
 PHQ4 = st.slider("In a semester, how often have you felt tired or have little energy?", 0, 4, 0)
