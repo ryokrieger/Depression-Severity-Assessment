@@ -127,7 +127,7 @@ with tab1:
         )
 
     # Calculate scores
-    pss_score = PSS1 + PSS2 + PSS3 + PSS4 + PSS9 + PSS10 + (4 - PSS5)  # PSS5 is reverse scored
+    pss_score = PSS1 + PSS2 + PSS3 + PSS4 + PSS5 + PSS9 + PSS10
     phq_score = PHQ2 + PHQ4 + PHQ5 + PHQ6 + PHQ7 + PHQ9
 
     col1, col2 = st.columns(2)
