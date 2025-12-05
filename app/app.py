@@ -11,7 +11,7 @@ import seaborn as sns
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 MODEL_PATH = BASE_DIR / "models" / "ml2" / "mir" / "logistic_regression.pkl"
-TRAIN_PATH = BASE_DIR / "data" / "processed" / "features2" / "mir" / "train.csv"
+TRAIN_PATH = BASE_DIR / "data" / "processed" / "mhp_processed.csv"
 
 # SESSION STATE INITIALIZATION
 if 'prediction_made' not in st.session_state:
