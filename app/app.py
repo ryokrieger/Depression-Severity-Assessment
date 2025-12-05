@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # PATH CONFIG
-BASE_DIR = Path(__file__).resolve().parent
+BASE_DIR = Path(__file__).resolve().parent.parent
 
 MODEL_PATH = BASE_DIR / "models" / "ml2" / "mir" / "logistic_regression.pkl"
 TRAIN_PATH = BASE_DIR / "data" / "processed" / "features2" / "mir" / "train.csv"
