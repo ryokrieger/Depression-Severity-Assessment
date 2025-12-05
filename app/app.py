@@ -8,8 +8,10 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # PATH CONFIG
-MODEL_PATH = Path("../models/ml2/mir/logistic_regression.pkl")
-TRAIN_PATH = Path("../data/processed/features2/mir/train.csv")
+BASE_DIR = Path(__file__).resolve().parent
+
+MODEL_PATH = BASE_DIR / "models" / "ml2" / "mir" / "logistic_regression.pkl"
+TRAIN_PATH = BASE_DIR / "data" / "processed" / "features2" / "mir" / "train.csv"
 
 # SESSION STATE INITIALIZATION
 if 'prediction_made' not in st.session_state:
