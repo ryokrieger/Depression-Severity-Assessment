@@ -102,7 +102,7 @@ st.markdown("""
 # HEADER
 st.markdown("""
     <div class="main-header">
-        <h1>🎓 Student Depression Screening System</h1>
+        <h1>🧠 Depression Screening System</h1>
         <p>Machine Learning Based Clinical Screening Tool</p>
     </div>
 """, unsafe_allow_html=True)
