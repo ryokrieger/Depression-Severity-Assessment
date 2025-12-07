@@ -148,37 +148,37 @@ with col1:
     st.markdown("*How often have you experienced the following in the past month?*")
     
     PSS4 = st.slider(
-        "PSS4: Not confident on handling problems",
+        "Not confident on handling problems",
         0, 4, 0,
         help=pss_questions["PSS4"] if show_explanations else None
     )
     PSS10 = st.slider(
-        "PSS10: Difficulties piling up",
+        "Difficulties piling up",
         0, 4, 0,
         help=pss_questions["PSS10"] if show_explanations else None
     )
     PSS2 = st.slider(
-        "PSS2: Unable to control important things",
+        "Unable to control important things",
         0, 4, 0,
         help=pss_questions["PSS2"] if show_explanations else None
     )
     PSS1 = st.slider(
-        "PSS1: Upset by unexpected events",
+        "Upset by unexpected events",
         0, 4, 0,
         help=pss_questions["PSS1"] if show_explanations else None
     )
     PSS9 = st.slider(
-        "PSS9: Angered by uncontrollable events",
+        "Angered by uncontrollable events",
         0, 4, 0,
         help=pss_questions["PSS9"] if show_explanations else None
     )
     PSS3 = st.slider(
-        "PSS3: Feeling nervous and stressed",
+        "Feeling nervous and stressed",
         0, 4, 0,
         help=pss_questions["PSS3"] if show_explanations else None
     )
     PSS5 = st.slider(
-        "PSS5: Things not going your way",
+        "Things not going your way",
         0, 4, 0,
         help=pss_questions["PSS5"] if show_explanations else None
     )
@@ -192,32 +192,32 @@ with col2:
     st.markdown("*Over the past 2 weeks, how often have you been bothered by:*")
     
     PHQ2 = st.slider(
-        "PHQ2: Feeling down or depressed",
+        "Feeling down or depressed",
         0, 3, 0,
         help=phq_questions["PHQ2"] if show_explanations else None
     )
     PHQ6 = st.slider(
-        "PHQ6: Feeling like a failure",
+        "Feeling like a failure",
         0, 3, 0,
         help=phq_questions["PHQ6"] if show_explanations else None
     )
     PHQ4 = st.slider(
-        "PHQ4: Feeling tired or low energy",
+        "Feeling tired or low energy",
         0, 3, 0,
         help=phq_questions["PHQ4"] if show_explanations else None
     )
     PHQ7 = st.slider(
-        "PHQ7: Trouble concentrating",
+        "Trouble concentrating",
         0, 3, 0,
         help=phq_questions["PHQ7"] if show_explanations else None
     )
     PHQ9 = st.slider(
-        "PHQ9: Thoughts of self-harm",
+        "Thoughts of self-harm",
         0, 3, 0,
         help=phq_questions["PHQ9"] if show_explanations else None
     )
     PHQ5 = st.slider(
-        "PHQ5: Poor appetite or overeating",
+        "Poor appetite or overeating",
         0, 3, 0,
         help=phq_questions["PHQ5"] if show_explanations else None
     )
