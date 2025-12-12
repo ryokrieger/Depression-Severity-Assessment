@@ -9,8 +9,8 @@ from datetime import datetime
 
 # PATHS
 BASE_DIR = Path(__file__).resolve().parent.parent
-MODEL_PATH = BASE_DIR / "models" / "ml2" / "mir" / "logistic_regression.pkl"
-SCALER_PATH = BASE_DIR / "data" / "processed" / "features2" / "mir" / "scaler.pkl"
+MODEL_PATH = BASE_DIR / "models" / "03 - Third Working" / "Machine Learning" / "mir" / "logistic_regression.pkl"
+SCALER_PATH = BASE_DIR / "features" / "03 - Third Working" / "mir" / "scaler.pkl"
 
 # LOAD MODEL & SCALER
 @st.cache_resource
